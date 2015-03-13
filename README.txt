@@ -1,0 +1,3 @@
+- A Tutorial and Getting Started Guide will be available.
+- Use Maven to download dependencies.
+- The ElastMan folder contains an Eclipse project that can be easily imported into an eclipse workspace.
